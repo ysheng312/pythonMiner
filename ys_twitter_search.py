@@ -2,7 +2,7 @@
 from collections import Counter
 from prettytable import PrettyTable
 
-from DataMining.ys_twitter import TWTR_OAUTH
+from ys_twitter import TWTR_OAUTH
 
 
 __author__ = 'ysheng'
