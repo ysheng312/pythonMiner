@@ -1,4 +1,4 @@
-from DataMining.ys_twitter import TWTR_OAUTH
+from ys_twitter import TWTR_OAUTH
 
 # The Yahoo! Where On Earth ID for the entire world is 1.
 # See https://dev.twitter.com/docs/api/1.1/get/trends/place and
